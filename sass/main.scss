@@ -32,9 +32,6 @@ body {
 .bg-blue {background-color: $Dark-cyan;}
 .bg-green {background-color: $Very-dark-cyan;}
 
-.btn-1 {color: $Bright-orange;}
-.btn-2 {color: $Dark-cyan;}
-.btn-3 {color: $Very-Dark-cyan;}
 
 .icons {
     width: 7rem;
@@ -62,6 +59,10 @@ body {
     color: $Transparent-white;
 }
 
+.btn-1 {color: hsl(31, 77%, 52%);}
+.btn-2 {color: hsl(184, 100%, 22%);}
+.btn-3 {color: hsl(179, 100%, 13%);}
+
 .btns {
     // display: inline-block;
     max-width: 20rem;
@@ -69,7 +70,7 @@ body {
     font-family: $font-body;
     text-align: center;
     font-size: 1.4rem;
-
+    
     padding: .8em 2em;
     border-radius: 10rem;
     margin-bottom: 1em;

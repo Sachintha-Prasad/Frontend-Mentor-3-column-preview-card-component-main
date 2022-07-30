@@ -71,6 +71,18 @@ body {
   color: hsla(0deg, 0%, 100%, 0.75);
 }
 
+.btn-1 {
+  color: hsl(31deg, 77%, 52%);
+}
+
+.btn-2 {
+  color: hsl(184deg, 100%, 22%);
+}
+
+.btn-3 {
+  color: hsl(179deg, 100%, 13%);
+}
+
 .btns {
   max-width: 20rem;
   font-family: "Lexend Deca", sans-serif;
